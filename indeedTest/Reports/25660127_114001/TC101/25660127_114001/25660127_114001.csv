@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC101,Chrome 109.0.0.0,,,2566-01-27 11:40:06,2566-01-27 11:40:13,6.924s,PASSED
+,,,,,,,
+Test Cases/TC1003,Chrome 109.0.0.0,,,2566-01-27 11:40:07,2566-01-27 11:40:13,6.721s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2566-01-27 11:40:07,2566-01-27 11:40:09,1.899s,PASSED
+"navigateToUrl(""https://th.indeed.com/"")",Chrome 109.0.0.0,,,2566-01-27 11:40:09,2566-01-27 11:40:11,1.699s,PASSED
+"click(findTestObject(""Page_Job Search  Indeed/button_Find jobs""))",Chrome 109.0.0.0,,,2566-01-27 11:40:11,2566-01-27 11:40:11,0.753s,PASSED
+"verifyTextPresent(""Enter a job title or location to start a search"", false)",Chrome 109.0.0.0,,,2566-01-27 11:40:11,2566-01-27 11:40:12,1.097s,PASSED
+takeScreenshot(),Chrome 109.0.0.0,,,2566-01-27 11:40:12,2566-01-27 11:40:13,0.399s,PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2566-01-27 11:40:13,2566-01-27 11:40:13,0.585s,PASSED
